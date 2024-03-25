@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.bypass.resources
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.bypass1.resources
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.exe
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.pdb
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\obj\Debug\BraveBypass.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\bin\Debug\BraveBypass.exe.config
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\bin\Debug\BraveBypass.exe
+C:\Users\MONSTERMC\Downloads\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\PUBG-Mobile-Bypass-Antiban-BRAVE-Bypass-main\BraveBypass\bin\Debug\BraveBypass.pdb
